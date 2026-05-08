@@ -467,4 +467,4 @@ By studying or extending MediTalk, developers can learn how to:
 
 ## License
 
-Add your preferred license before publishing. MIT is a common choice for portfolio projects.
+MIT License
