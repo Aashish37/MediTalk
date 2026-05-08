@@ -1,0 +1,13 @@
+{
+  "conversation_id": "sample-routine-001",
+  "messages": [
+    {
+      "speaker": "patient",
+      "text": "I have had a mild sore throat and cough since yesterday. No fever and no chest pain."
+    },
+    {
+      "speaker": "provider",
+      "text": "Drink fluids, rest, and monitor symptoms. Follow up if symptoms worsen or fever develops."
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "conversation_id": "sample-emergency-001",
+  "messages": [
+    {
+      "speaker": "patient",
+      "text": "I have crushing chest pain and shortness of breath. I feel dizzy and sweaty."
+    },
+    {
+      "speaker": "provider",
+      "text": "Because chest pain with breathing difficulty can be serious, please call emergency services now."
+    }
+  ]
+}
